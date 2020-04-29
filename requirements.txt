@@ -1,3 +1,2 @@
 pyrogram
 request
-sqlite3
